@@ -3,7 +3,7 @@ from tkinter import *
 root = Tk()
 
 root.geometry("1280x720")
-root.title("GENRE PAGE")
+root.title("Genre Page")
 root.resizable(False, False)
 root.config(bg = "#5E17EB")
 
